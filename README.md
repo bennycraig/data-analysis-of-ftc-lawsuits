@@ -20,6 +20,26 @@ This is the order in which these Python scripts were run:
 7. `process_wordcount.py` (reads in word count and outputs the normalized word count)
 8. `plot_heatmap.py` (creates the heat map of word counts across industries)
 
+## Search Terms
+
+We hand selected search terms related to environmental, social, and governance problems, as well as tech topics such as artificial intelligence and data privacy. 
+
+The search terms we selected can be generally organized into 12 categories:
+- Environmental issues
+- Social issues
+- Corporate governance
+- Data privacy and security
+- Ethical business practices
+- Misinformation and censorship
+- Safety and working conditions
+- AI ethics and bias
+- Platform responsibility and content moderation
+- Digital rights and access
+- Antitrust and comptetition
+- Worker classification and gig economy
+
+The full list of search terms can be found in `searchTerms.json`
+
 ## Data Gathered
 Here is a glimpse at the data we gathered:
 - Downloaded over 4,500 PDFs from the FTC containing information on 1,020 lawsuits organized by industry

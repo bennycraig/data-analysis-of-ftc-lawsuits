@@ -1,0 +1,134 @@
+{
+    "ENVIRONMENTAL ISSUES": {
+      "environmental": "environmental",
+      "biodiversity": "biodiversity",
+      "climate change": "climate change",
+      "climate goal": "climate goal",
+      "emission": "emission",
+      "sustainable": "sustainab",
+      "greenhouse gas": "greenhouse gas",
+      "water resource": "water resource",
+      "marine resource": "marine resource",
+      "natural resource": "natural resource",
+      "pollution": "pollution",
+      "pollutant": "pollutant",
+      "pollute": "pollute",
+      "ecosystem": "ecosystem",
+      "carbon": "carbon",
+      "waste management": "waste management"
+    },
+    "SOCIAL ISSUES": {
+      "DEI": "DEI ",
+      "diversity, equity and inclusion": "diversity, equity",
+      "diversity": "diversity",
+      "forced labor": "forced labor",
+      "human right": "human right",
+      "right to": "right to",
+      "community impact": "community impact",
+      "Equal pay": "Equal pay",
+      "discrimination": "discriminat",
+      "harassment": "harassment",
+      "sexual harassment": "sexual harassment",
+      "racial harassment": "racial harassment",
+      "wage": "wage",
+      "labor condition": "labor condition",
+      "child labor": "child labor",
+      "working condition": "working condition",
+      "employee relation": "employee relation"
+    },
+    "CORPORATE GOVERNANCE": {
+      "governance": "governance",
+      "board composition": "board composition",
+      "board diversity": "board diversity",
+      "management divesity": "managment diversity",
+      "company audits": "company audits",
+      "executive compensation": "executive compensation",
+      "misleading proxy": "misleading proxy",
+      "false proxy": "false proxy",
+      "shareholder right": "shareholder right"
+    },
+    "DATA PRIVACY AND SECURITY": {
+      "privacy": "privacy",
+      "differential privacy": "differential privacy",
+      "cybersecurity": "cybersecurity",
+      "data breach": "data breach",
+      "security breach": "security breach",
+      "biometric information privacy act": "biometric information privacy act",
+      "CCPA": "CCPA",
+      "California Consumer Privacy Act": "California Consumer Privacy Act",
+      "Section 230": "Section 230",
+      "Computer Fraud and Abuse Act": "Computer Fraud and Abuse Act"
+    },
+    "ETHICAL BUSINESS PRACTICES": {
+      "affordability": "affordability",
+      "conflict mineral": "conflict mineral",
+      "ethical supply chain": "ethical supply chain",
+      "corruption": "corruption",
+      "fraud": "fraud",
+      "Title XI": "Title XI",
+      "UDAP": "UDAP",
+      "Unfair or Deceptive Acts or Practices": "Unfair or Deceptive Acts or Practices",
+      "UDTP": "UDTP",
+      "Unfair and Deceptive Trade Practice": "Unfair and Deceptive Trade Practice",
+      "negligence": "negligence",
+      "negligent": "negligent",
+      "false advertising": "false advertising"
+    },
+    "MISINFORMATION AND CENSORSHIP": {
+        "misinformation": "misinform",
+        "censorship": "censor"
+      },
+      "SAFETY AND WORKING CONDITIONS": {
+        "safety": "safety",
+        "working condition": "working condition",
+        "labor condition": "labor condition"
+      },
+      "AI ETHICS AND BIAS": {
+        "algorithm": "algorithm",
+        "algorithmic bias": "algorithmic bias",
+        "artificial intelligence": "artificial intelligence",
+        "machine learning": "machine learning",
+        "facial recognition": "facial recognition",
+        "surveillance": "surveil",
+        "biased algorithm": "biased algorithm",
+        "biased data": "biased data",
+        "data bias": "data bias"
+      },
+      "PLATFORM RESPONSIBILITY AND CONTENT MODERATION": {
+        "content moderation": "content moderation",
+        "platform responsibility": "platform responsibility",
+        "user content": "user content",
+        "online harassment": "online harassment",
+        "hate speech": "hate speech",
+        "extremist content": "extremist content",
+        "harmful content": "harmful content",
+        "disinformation": "disinformation",
+        "misinformation": "misinformation",
+        "radicalization": "radicalization"
+      },
+      "DIGITAL RIGHTS AND ACCESS": {
+          "net neutrality": "net neutrality",
+          "digital literacy": "digital literacy",
+          "online privacy": "online privacy"
+      },
+      "ANTITRUST AND COMPETITION": {
+          "antitrust": "antitrust",
+          "monopolies": "monopol",
+          "market dominance": "market dominance",
+          "competition law": "competition law",
+          "anti-competitive": "anti-competitive",
+          "anti competitive": "anti competitive",
+          "market power": "market power",
+          "predatory pricing": "predatory pricing",
+          "vertical integration": "vertical integration"
+      },
+      "WORKER CLASSIFICATION AND GIG ECONOMY": {
+        "gig economy": "gig economy",
+        "independent contractor": "independent contractor",
+        "contract worker": "contract worker",
+        "employee right": "employee right",
+        "labor law": "labor law",
+        "platform worker": "platform worker",
+        "worker protection": "worker protection"
+    }
+}
