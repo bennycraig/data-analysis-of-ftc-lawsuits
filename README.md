@@ -20,14 +20,6 @@ This is the order in which these Python scripts were run:
 7. `process_wordcount.py` (reads in word count and outputs the normalized word count)
 8. `plot_heatmap.py` (creates the heat map of word counts across industries)
 
-Here are some additional helper scripts
-- `delete.py` (used to clean up unneeded files created)
-- `count_folders.py` (counts the total number of cases)
-- `count_pdfs.py`  (counts the total number of documents)
-- `context_to_csv.py` (converts context.txt to CSV for spreadsheet viewing)
-
-
-
 ## Data Gathered
 Here is a glimpse at the data we gathered:
 - Downloaded over 4,500 PDFs from the FTC containing information on 1,020 lawsuits organized by industry
