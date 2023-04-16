@@ -8,6 +8,26 @@ By examining the frequency of specific terms related to environmental, social, a
 
 **Social Consequences of Computing** at University of Michigan
 
+## Code
+
+This is the order in which these Python scripts were run:
+1. `downloads.py` (downloads court case documents from FTC website)
+2. `duplicates.py` (removes duplicate files)
+3. `wordcount.py` (counts words and gets context of word match)
+4. `industry.py` (aggregates all word counts and contexts)
+5. `aggregate_all_industries.py` (aggregates all industries into final results)
+6. `csv_conversion.py` (converts all JSON files to CSV)
+7. `process_wordcount.py` (reads in word count and outputs the normalized word count)
+8. `plot_heatmap.py` (creates the heat map of word counts across industries)
+
+Here are some additional helper scripts
+- `delete.py` (used to clean up unneeded files created)
+- `count_folders.py` (counts the total number of cases)
+- `count_pdfs.py`  (counts the total number of documents)
+- `context_to_csv.py` (converts context.txt to CSV for spreadsheet viewing)
+
+
+
 ## Data Gathered
 Here is a glimpse at the data we gathered:
 - Downloaded over 4,500 PDFs from the FTC containing information on 1,020 lawsuits organized by industry
