@@ -1,0 +1,135 @@
+{
+    "NUM WORDS": 29194841,
+    "ENVIRONMENTAL ISSUES": {
+        "environmental": 469,
+        "biodiversity": 0,
+        "climate change": 3,
+        "climate goal": 0,
+        "emission": 1284,
+        "sustainable": 98,
+        "greenhouse gas": 5,
+        "water resource": 0,
+        "marine resource": 0,
+        "natural resource": 31,
+        "pollution": 18,
+        "pollutant": 53,
+        "pollute": 8,
+        "ecosystem": 121,
+        "carbon": 149,
+        "waste management": 3
+    },
+    "SOCIAL ISSUES": {
+        "DEI": 25,
+        "diversity, equity and inclusion": 0,
+        "diversity": 197,
+        "forced labor": 6,
+        "human right": 5,
+        "right to": 4011,
+        "community impact": 0,
+        "Equal pay": 4,
+        "discrimination": 537,
+        "harassment": 92,
+        "sexual harassment": 0,
+        "racial harassment": 0,
+        "wage": 1380,
+        "labor condition": 0,
+        "child labor": 0,
+        "working condition": 3,
+        "employee relation": 2
+    },
+    "CORPORATE GOVERNANCE": {
+        "governance": 72,
+        "board composition": 0,
+        "board diversity": 0,
+        "management divesity": 0,
+        "company audits": 0,
+        "executive compensation": 3,
+        "misleading proxy": 0,
+        "false proxy": 0,
+        "shareholder right": 0
+    },
+    "DATA PRIVACY AND SECURITY": {
+        "privacy": 10035,
+        "differential privacy": 0,
+        "cybersecurity": 104,
+        "data breach": 745,
+        "security breach": 116,
+        "biometric information privacy act": 0,
+        "CCPA": 19,
+        "California Consumer Privacy Act": 0,
+        "Section 230": 13,
+        "Computer Fraud and Abuse Act": 6
+    },
+    "ETHICAL BUSINESS PRACTICES": {
+        "affordability": 36,
+        "conflict mineral": 0,
+        "ethical supply chain": 0,
+        "corruption": 17,
+        "fraud": 8552,
+        "Title XI": 84,
+        "UDAP": 0,
+        "Unfair or Deceptive Acts or Practices": 847,
+        "UDTP": 0,
+        "Unfair and Deceptive Trade Practice": 40,
+        "negligence": 240,
+        "negligent": 62,
+        "false advertising": 141
+    },
+    "MISINFORMATION AND CENSORSHIP": {
+        "misinformation": 19,
+        "censorship": 29
+    },
+    "SAFETY AND WORKING CONDITIONS": {
+        "safety": 12234,
+        "working condition": 3,
+        "labor condition": 0
+    },
+    "AI ETHICS AND BIAS": {
+        "algorithm": 581,
+        "algorithmic bias": 2,
+        "artificial intelligence": 53,
+        "machine learning": 221,
+        "facial recognition": 38,
+        "surveillance": 118,
+        "biased algorithm": 0,
+        "biased data": 0,
+        "data bias": 0
+    },
+    "PLATFORM RESPONSIBILITY AND CONTENT MODERATION": {
+        "content moderation": 0,
+        "platform responsibility": 0,
+        "user content": 5,
+        "online harassment": 0,
+        "hate speech": 4,
+        "extremist content": 0,
+        "harmful content": 0,
+        "disinformation": 8,
+        "misinformation": 16,
+        "radicalization": 0
+    },
+    "DIGITAL RIGHTS AND ACCESS": {
+        "net neutrality": 38,
+        "digital literacy": 0,
+        "online privacy": 326
+    },
+    "ANTITRUST AND COMPETITION": {
+        "antitrust": 2216,
+        "monopolies": 459,
+        "market dominance": 0,
+        "competition law": 127,
+        "anti-competitive": 76,
+        "anti competitive": 0,
+        "market power": 221,
+        "predatory pricing": 4,
+        "vertical integration": 274
+    },
+    "WORKER CLASSIFICATION AND GIG ECONOMY": {
+        "gig economy": 26,
+        "independent contractor": 1474,
+        "contract worker": 0,
+        "employee right": 1,
+        "labor law": 6,
+        "platform worker": 0,
+        "worker protection": 0
+    }
+}
